@@ -6,7 +6,7 @@ import simulationModelling.SequelActivity;
 
 //
 // The Simulation model Class
-public class ModelName extends AOSimulationModel
+public class SMRepair extends AOSimulationModel
 {
 	// Constants available from Constants class
 	/* Parameter */
