@@ -26,7 +26,8 @@ class UDPs
 	------------------------------------------------------------*/
 	
 	public int getScaledClock(){
-		return model.getClock()/1440;
+		int days = model.getClock()/1440;
+		return model.getClock() - days*1440;
 	}
 	
 }
