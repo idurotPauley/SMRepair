@@ -1,0 +1,9 @@
+observations:
+
+Traveling Activity
+- need a precondition that a queue has customers.
+- StartingEvent() -> make sure UDP.get
+- need a getTravelingEmployees.
+
+- need to fix Basic overtime in Servicing
+	- need to finish status first.
